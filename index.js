@@ -1,5 +1,4 @@
 
-
 // let students = ["vikas", "vishal", "punit"]
 
 // let randomIndex = Math.floor(Math.random() * students.length);
